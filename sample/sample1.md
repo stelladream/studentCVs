@@ -20,10 +20,10 @@
 * DB 응용 개발(Oracle, Mysql)  
 * 테스트 코드 작성 (Junit)  
 * IDE(Eclispe, XCode)  
-* 
+
 * Programming Languages: C, C++, __Java__, Javascript, jQuery, Swift  
 * Operating Systems: Mac OS, __Linux__
-* 
+ 
 * 소스코드관리(Git, CVS)
 * 이슈추적도구(Trac,Mantis,JIRA,Redmine)
 * Continuous Integration(Jenkins)
