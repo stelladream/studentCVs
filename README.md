@@ -34,3 +34,4 @@ Note: 수정하기 전에는 반드시 git pull을 통해 최신 버전을 받�
 학생들은 아래 샘플을 참조하여 자신의 이력서를 만들어보세요.
 
 샘플: [Josh Hill](https://github.com/jamesjoshuahill/cv.git) 
+[홍길동] (https://github.com/stelladream/studentCVs/blob/master/sample/sample1.md)
