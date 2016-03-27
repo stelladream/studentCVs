@@ -18,8 +18,8 @@
 * Java 개발 프레임워크(MVC, Spring, MyBatis/JPA/Hibernate)
 * Java 기반 개발(Web)
 * DB 응용 개발(Oracle, Mysql)  
-* 테스트 코드 작성 (Junit)  
-* IDE(Eclispe, XCode)  
+* 테스트 코드 작성 (Junit)   
+* IDE(Eclispe, XCode)   
 
 * Programming Languages: C, C++, __Java__, Javascript, jQuery, Swift  
 * Operating Systems: Mac OS, __Linux__
