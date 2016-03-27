@@ -1,6 +1,7 @@
 ### 한성대학교 컴퓨터공학부 학생의 CV(curriculum vitae) 저장소입니다.
 
-협업을 통해 개인 이력서를 지속적으로 개선하기 위한 저장소입니다. 
+협업을 통해 개인 이력서를 지속적으로 개선하기 위한 저장소입니다.   
+(2016년 하반기 오픈 예정)
 
 ##### 1. 사용 목적
 
@@ -22,15 +23,14 @@ github를 통해 연락처를 공유할 수 있어 지속적인 관계 유지가
 
 ##### 2. Git 사용 방법
 
-1) CV 저장소를 fork한후 자신의 컴퓨터로 clone 하기
-2) 학번 폴더에 자신의 이름과 github url를 추가한 후, add->commit->push
-3) Pull request를 통해 수정 내역 반영 요청
-4) 본인이 pull request 확인 후, 반영 완료
+1) CV 저장소를 fork한후 자신의 컴퓨터로 clone 하기  
+2) 학번 폴더에 자신의 이름과 github url를 추가한 후, add->commit->push  
+3) Pull request를 통해 수정 내역 반영 요청  
+4) 본인이 pull request 확인 후, 반영 완료  
 
 Note: 수정하기 전에는 반드시 git pull을 통해 최신 버전을 받은 후, 수정하세요~~
 
 
-
 학생들은 아래 샘플을 참조하여 자신의 이력서를 만들어보세요.
 
-샘플: [Josh Hill](github.com/jamesjoshuahill/cv)
+샘플: [Josh Hill](https://github.com/jamesjoshuahill/cv.git) 
