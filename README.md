@@ -36,3 +36,5 @@ Note: 수정하기 전에는 반드시 git pull을 통해 최신 버전을 받�
 샘플:
 * [Josh Hill](https://github.com/jamesjoshuahill/cv.git)  
 * [홍길동] (https://github.com/stelladream/studentCVs/blob/master/sample/sample1.md)
+* [Claud D. Park](https://github.com/posquit0/Awesome-CV)
+* [Martin](https://github.com/martinothamar/CV-Latex-Template)
