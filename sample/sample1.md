@@ -15,14 +15,19 @@
 
 
 ### 2. 보유기술(Technical Skills)
-* Java 개발 프레임워크(MVC, Spring, MyBatis/JPA/Hibernate)
-* Java 기반 개발(Web)
-* DB 응용 개발(Oracle, Mysql)
-* 테스트 코드 작성 (Junit)
-* IDE(Eclipse, XCODE)
+
+1) Basics
 * Programming Languages: C, C++, __Java__, Javascript, jQuery, Swift
 * Operating Systems: Mac OS, __Linux__
+* IDE(Eclipse, XCODE)
+
+2) Java Development
+* Java 개발 프레임워크(MVC, Spring, MyBatis/JPA/Hibernate)
+* DB 응용 개발(Oracle, Mysql)
 * Server(Apache web server, Tomcat, Node.js)
+* 테스트 코드 작성 (Junit)
+
+3) Software Tools
 * 소스코드관리(Git, CVS)
 * 이슈추적도구(Trac,Mantis,JIRA,Redmine)
 * Continuous Integration(Jenkins)
