@@ -17,12 +17,12 @@
 ### 2. 보유기술(Technical Skills)
 * Java 개발 프레임워크(MVC, Spring, MyBatis/JPA/Hibernate)
 * Java 기반 개발(Web)
-* DB 응용 개발(Oracle, Mysql)  
-* 테스트 코드 작성 (Junit)   
-* IDE(Eclispe, XCode)   
+* DB 응용 개발(Oracle, Mysql)
+* 테스트 코드 작성 (Junit)
+* IDE(Eclispe, XCode)
 
-* Programming Languages: C, C++, __Java__, Javascript, jQuery, Swift  
-* Operating Systems: Mac OS, __Linux__  
+* Programming Languages: C, C++, __Java__, Javascript, jQuery, Swift
+* Operating Systems: Mac OS, __Linux__
 * Server(Apache web server, Tomcat, Node.js)
  
 * 소스코드관리(Git, CVS)
@@ -40,6 +40,7 @@
 ### 4. 수상 실적 & 자격증(Awards & Certifiations)
 * 한성대학교 공학경진 대회 대상
   * 명함 인식 소프트웨어
+  * 
 * 2017 공개 SW 경진 대회(미래창조과학부) ????상
 * 정보처리기사 1급 자격증
 
