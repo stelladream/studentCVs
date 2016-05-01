@@ -7,3 +7,4 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+김호영, [OSS 수강생] (https://github.com/kimtm60/resume.git)
