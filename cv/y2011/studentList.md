@@ -14,3 +14,5 @@
 임인혁, [멀티 11](https://github.com/inhyuck222/CV.git)
 
 김호영, [OSS 수강생](https://github.com/kimtm60/resume.git)
+
+서보경, [1191027](https://github.com/qhrud8015/testGit.wiki.git)
