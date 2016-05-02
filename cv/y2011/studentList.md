@@ -11,4 +11,6 @@
 
 전동화, [자기소개서](https://github.com/wjsehdghk/MyRepo.git)
 
-임인혁, [멀티 11] (https://github.com/inhyuck222/CV.git)
+임인혁, [멀티 11](https://github.com/inhyuck222/CV.git)
+
+김호영, [OSS 수강생](https://github.com/kimtm60/resume.git)
