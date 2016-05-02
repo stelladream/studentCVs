@@ -7,3 +7,4 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+박예림,[1392062](https://github.com/parkyel/testgit.git)
