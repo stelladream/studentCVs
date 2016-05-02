@@ -8,5 +8,5 @@
 
 --->
 
-전동화, [멀티 11](https://github.com/wjsehdghk/MyRepo.git)
+전동화, [자기소개서](https://github.com/wjsehdghk/MyRepo.git)
 
