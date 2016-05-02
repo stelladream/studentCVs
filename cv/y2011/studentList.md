@@ -1,4 +1,4 @@
-
+﻿
 <!--- 
 (이름,  github URL)
 예제 : 
@@ -7,3 +7,6 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+
+전동화, [멀티 11](https://github.com/wjsehdghk/studentCVs.git)
+
