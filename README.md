@@ -1,17 +1,17 @@
 ﻿##**임정훈**
-*알아가는걸 즐기고 내것을 아낄 줄 아는 사람입니다.*
+- 알아가는걸 즐기고 내것을 아낄 줄 아는 사람입니다.
 
 ### 1. 학력(Education)
 
-2017.2월 한성대학교 컴퓨터공학부 졸업 예정
+- 2017.2월 한성대학교 컴퓨터공학부 졸업 예정
 
 ##### 세부 전공 기술(Major)
 
 	1.1 웹 서비스
-		- JSP/Servlet, Spring/Mysql
+		- __JSP/Servlet__, __Spring/Mysql__
 
 	1.1 모바일 프로그래밍
-		- 안드로이드
+		- __안드로이드__
 
 
 ### 2. 보유기술(Technical Skills)
@@ -37,5 +37,5 @@
 - 정보처리산업기사 자격증
 
 ####연락처
-[GitHub Address](https://github.com/junghoonhyo) : https://github.com/junghoonhyo :octocat:
-[Email Address](ckzkek@hansung.ac.kr) : ckzkek@hansung.ac.kr :email:
+:octocat: [GitHub Address]: (https://github.com/junghoonhyo)  
+:email: [Email Address]: (ckzkek@hansung.ac.kr)
