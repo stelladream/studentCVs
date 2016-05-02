@@ -8,4 +8,4 @@
 
 --->
 
-김동혁, [1092003](https://github.com/ddongC/DH.git)
+김동혁, [자기소개서](https://github.com/ddongC/DH.git)
