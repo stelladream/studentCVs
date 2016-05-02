@@ -16,3 +16,5 @@
 김호영, [OSS 수강생](https://github.com/kimtm60/resume.git)
 
 서보경, [1191027](https://github.com/qhrud8015/testGit.wiki.git)
+
+노대건, [1191017](https://github.com/nihil0821/resume.git)
