@@ -10,3 +10,5 @@
 현병훈, [멀티10](https://github.com/emailtenid/record.git)
 
 임정훈, [한성대 학생](https://github.com/JungHoonHyo/studentCVs.git)
+
+이성구, [1091026](https://github.com/koo8787/testGit.wiki.git)
