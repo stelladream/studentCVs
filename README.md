@@ -8,7 +8,7 @@
 ##### 세부 전공 기술(Major)
 
 	1.1 웹 서비스
-		- *JSP/Servlet*, __Spring/Mysql__
+		- *JSP*/*Servlet*, __Spring/Mysql__
 
 	1.1 모바일 프로그래밍
 		- __안드로이드__
