@@ -6,4 +6,5 @@
 
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
-강한수, [강한수](https://github.com/wwsefd123/info.git)-->
+강한수, [강한수](https://github.com/wwsefd123/info.git)
+-->
