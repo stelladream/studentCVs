@@ -7,3 +7,4 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+전동화, [멋쨍이](https://github.com/wjsehdghk/MyRepo.git}
