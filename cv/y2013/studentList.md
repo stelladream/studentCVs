@@ -7,3 +7,5 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+
+이소라, [1392029](http://github.com/jinny3770/testGit.git)
