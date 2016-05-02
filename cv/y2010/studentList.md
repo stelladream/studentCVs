@@ -7,4 +7,4 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
-현병훈, [멀티10](https://github.com/emailtenid/studentCVs.git)
+현병훈, [멀티10](https://github.com/emailtenid/record.git)
