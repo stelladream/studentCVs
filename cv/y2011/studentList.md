@@ -18,3 +18,5 @@
 서보경, [1191027](https://github.com/qhrud8015/testGit.wiki.git)
 
 노대건, [1191017](https://github.com/nihil0821/resume.git)
+
+이승진, [컴퓨터공학과 4학년](https://github.com/leeseung/Capston2/blob/master/self-introduction.md)
