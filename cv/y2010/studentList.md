@@ -14,3 +14,5 @@
 이성구, [1091026](https://github.com/koo8787/testGit.wiki.git)
 
 김이준, [1091007](https://github.com/YiJunKim/myinfo.git)
+
+강한수, [강한수](https://github.com/wwsefd123/info.git)
