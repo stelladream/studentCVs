@@ -8,5 +8,5 @@
 
 --->
 
-전동화, [멀티 11](https://github.com/wjsehdghk/studentCVs.git)
+전동화, [멀티 11](https://github.com/wjsehdghk/MyRepo.git)
 
