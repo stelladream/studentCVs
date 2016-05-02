@@ -1,4 +1,4 @@
-
+﻿
 <!--- 
 (이름,  github URL)
 예제 : 
@@ -8,3 +8,5 @@
 
 --->
 임경호,[오픈소스 수강생](https://github.com/Limky/specification.git)
+
+전동화, [자기소개서](https://github.com/wjsehdghk/MyRepo.git)
