@@ -16,3 +16,5 @@
 김이준, [1091007](https://github.com/YiJunKim/myinfo.git)
 
 강한수, [강한수](https://github.com/wwsefd123/info.git)
+
+김동혁, [자기소개서](https://github.com/ddongC/DH.git)
