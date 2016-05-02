@@ -10,3 +10,5 @@
 임경호,[오픈소스 수강생](https://github.com/Limky/specification.git)
 
 전동화, [자기소개서](https://github.com/wjsehdghk/MyRepo.git)
+
+임인혁, [멀티 11] (https://github.com/inhyuck222/CV.git)
