@@ -7,3 +7,5 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+
+장진석, [컴퓨터공학과] (https://github.com/JinseokJang/repo.git)
