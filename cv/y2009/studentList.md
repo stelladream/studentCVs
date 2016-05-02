@@ -7,3 +7,5 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+
+이영일, [0992072](https://github.com/leeyoungil/studentCVs)
