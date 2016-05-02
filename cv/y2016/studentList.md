@@ -6,6 +6,6 @@
 
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
-임정훈, [한성대 학생] (https://github.com/JungHoonHyo/studentCVs.git)
+임정훈, [한성대 학생] (https://github.com/JungHoonHyo/testGit.git)
 
 --->
