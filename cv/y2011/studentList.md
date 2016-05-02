@@ -20,3 +20,5 @@
 노대건, [1191017](https://github.com/nihil0821/resume.git)
 
 이승진, [컴퓨터공학과 4학년](https://github.com/leeseung/Capston2/blob/master/self-introduction.md)
+
+장진석, [컴퓨터공학과](https://github.com/JinseokJang/repo.git)
