@@ -12,3 +12,5 @@
 임정훈, [한성대 학생](https://github.com/JungHoonHyo/studentCVs.git)
 
 이성구, [1091026](https://github.com/koo8787/testGit.wiki.git)
+
+김이준, [1091007](https://github.com/YiJunKim/myinfo.git)
