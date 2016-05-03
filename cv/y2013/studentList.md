@@ -11,4 +11,4 @@
 
 
 
-호태규, [이력서](README.md)
+호태규, [이력서](https://github.com/TaegyuHO/testGit.git)
