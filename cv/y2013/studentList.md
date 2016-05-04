@@ -13,3 +13,5 @@
 박예림,[1392062](https://github.com/parkyel/testgit.git)
 
 김율헌, [이력서](https://github.com/YulHeon/resume.git)
+
+김화인, [1392058](https://github.com/Whynn/OSS_test.git)
