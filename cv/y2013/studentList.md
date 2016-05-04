@@ -15,3 +15,5 @@
 김율헌, [이력서](https://github.com/YulHeon/resume.git)
 
 김화인, [1392058](https://github.com/Whynn/OSS_test/blob/master/Resume/MyResume.md)
+
+호태규, [이력서](https://github.com/TaegyuHO/testGit.git)
