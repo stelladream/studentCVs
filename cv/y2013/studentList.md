@@ -7,3 +7,4 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+조광호, [이력서](https://github.com/chokwangho/resume/blob/master/chokwanghoresume.md)
