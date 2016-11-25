@@ -22,3 +22,5 @@
 이승진, [컴퓨터공학과 4학년](https://github.com/leeseung/Capston2/blob/master/self-introduction.md)
 
 장진석, [컴퓨터공학과](https://github.com/JinseokJang/repo.git)
+
+김수형 , [정보통신공학과] (https://github.com/rlatngud91/ksh.git)
