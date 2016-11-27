@@ -18,3 +18,5 @@
 강한수, [강한수](https://github.com/wwsefd123/info.git)
 
 김동혁, [자기소개서](https://github.com/ddongC/DH.git)
+
+최한수, [자기소개서](https://github.com/chsoo/cv/blob/master/myInfo.md)
