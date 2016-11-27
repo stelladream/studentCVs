@@ -1,4 +1,4 @@
-
+﻿
 <!--- 
 (이름,  github URL)
 예제 : 
@@ -17,3 +17,5 @@
 김화인, [1392058](https://github.com/Whynn/OSS_test/blob/master/Resume/MyResume.md)
 
 호태규, [이력서](https://github.com/TaegyuHO/testGit.git)
+
+최영서, [1391078](https://github.com/yeongseo412/RESUME.git)
