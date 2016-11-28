@@ -17,3 +17,5 @@
 김화인, [1392058](https://github.com/Whynn/OSS_test/blob/master/Resume/MyResume.md)
 
 호태규, [이력서](https://github.com/TaegyuHO/testGit.git)
+
+조윤민, [1391076](https://github.com/yoonmin-Cho/Resume/blob/master/resume.md)
