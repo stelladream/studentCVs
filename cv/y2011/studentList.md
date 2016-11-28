@@ -25,4 +25,6 @@
 
 장진석, [컴퓨터공학과](https://github.com/JinseokJang/repo.git)
 
+김수형, [정보통신공학과](https://github.com/rlatngud91/ksh.git)
+
 
