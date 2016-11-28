@@ -19,3 +19,5 @@
 호태규, [이력서](https://github.com/TaegyuHO/testGit.git)
 
 황유지, [1391045](https://github.com/HYOUJI/Resume/blob/master/resume.md)
+
+조광호, [이력서](https://github.com/chokwangho/resume/blob/master/chokwanghoresume.md)
