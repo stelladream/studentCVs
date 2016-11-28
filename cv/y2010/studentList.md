@@ -7,6 +7,9 @@
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
 
 --->
+
+김재영, [1092008](http://github.com/kjygo109/resume.git)
+
 현병훈, [멀티10](https://github.com/emailtenid/record.git)
 
 임정훈, [한성대 학생](https://github.com/JungHoonHyo/studentCVs.git)
