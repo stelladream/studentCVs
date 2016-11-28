@@ -27,4 +27,6 @@
 
 김수형, [정보통신공학과](https://github.com/a84622648/ksh.git)
 
+박준영, [정보통신공학과](https://github.com/fulyniang/record/blob/master/README.md)
+
 
