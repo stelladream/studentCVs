@@ -23,3 +23,5 @@
 조광호, [이력서](https://github.com/chokwangho/resume/blob/master/chokwanghoresume.md)
 
 조윤민, [1391076](https://github.com/yoonmin-Cho/Resume/blob/master/resume.md)
+
+최영서, [1391078](https://github.com/yeongseo412/RESUME.git)
