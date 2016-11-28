@@ -25,3 +25,7 @@
 김태영, [컴공과 학생](https://github.com/Taeyoung91/Resume.git)
 
 최한수, [자기소개서](https://github.com/chsoo/cv/blob/master/myInfo.md)
+
+김웅빈, [자기소개서](https://github.com/woongbini/myCVs/blob/master/README.md)
+
+
