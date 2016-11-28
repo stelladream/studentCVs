@@ -18,3 +18,5 @@
 강한수, [강한수](https://github.com/wwsefd123/info.git)
 
 김동혁, [자기소개서](https://github.com/ddongC/DH.git)
+
+김태영, [컴공과 학생](https://github.com/Taeyoung91/Resume.git)
