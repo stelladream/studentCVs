@@ -5,7 +5,7 @@
 김남윤, [한성대 교수] (https://github.com/stelladream/studentCVs.git)
 
 홍길동, [멋쟁이](https://github.com/stelladream/studentCVs.git)
-
+노대건, [1191017](https://github.com/nihil0821/resume.git)
 --->
 이현영, [1192032](https://github.com/hyeonyoung92/Resume.git)
 
